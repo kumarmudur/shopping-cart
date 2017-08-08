@@ -4,7 +4,7 @@ import './App.css';
 class App extends Component {
     render() {
         return(
-            <div>Hello Mahadeva</div>
+            <div>Welcome to ReactJS/div>
         )
     }
 }
